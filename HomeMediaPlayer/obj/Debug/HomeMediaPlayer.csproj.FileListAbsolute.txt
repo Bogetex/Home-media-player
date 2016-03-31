@@ -1,0 +1,168 @@
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\App.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\PlayListWindow.baml
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\PlayListWindow.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\App.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\FileBrowserWindow.baml
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\FileBrowserWindow.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\MainWindow.baml
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\MainWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\UtilitiesLib.dll
+C:\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\UtilitiesLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\UtilitiesLib.dll
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\bin\Debug\UtilitiesLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\PlayListWindow.baml
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\FileBrowserWindow.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\PlayListWindow.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\App.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\FileBrowserWindow.baml
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\PlyerWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\PlyerWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HelpWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\HomeMediaPlayer\obj\Debug\HelpWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HelpWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\PlyerWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HelpWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\PlyerWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\App.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HelpWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\PlyerWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HelpWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\PlyerWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\App.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\DataLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\DataLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\HomeMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\BckUp\Assignment3\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\BckUp\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\BckUp\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\DataLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\DataLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\AlbumWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HelpWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\PlyerWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\SettingWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\AlbumWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HelpWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\PlyerWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\SettingWindow.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\App.g.cs
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer_MarkupCompile.lref
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayerMainWindow.baml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.g.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.Properties.Resources.resources
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Win-Mac-Win\CSharpe korse file and project\CSharpe III\Assignment3\Assignment3\HomeMediaPlayer\bin\Debug\HomeMediaPlayer.exe.config
+\\vmware-host\Shared Folders\Win-Mac-Win\CSharpe korse file and project\CSharpe III\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.exe
+\\vmware-host\Shared Folders\Win-Mac-Win\CSharpe korse file and project\CSharpe III\Assignment3\Assignment3\HomeMediaPlayer\obj\Debug\HomeMediaPlayer.pdb

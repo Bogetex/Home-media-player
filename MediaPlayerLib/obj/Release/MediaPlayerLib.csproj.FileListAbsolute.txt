@@ -1,0 +1,5 @@
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\bin\Release\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\bin\Release\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Release\MediaPlayerLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Release\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Release\MediaPlayerLib.pdb

@@ -1,0 +1,29 @@
+Additional information: 
+The Entity Framework provider type 'System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer' 
+registered in the application config file for the ADO.NET provider with invariant name 'System.Data.SqlClient' 
+could not be loaded. Make sure that the assembly-qualified name is used and that the assembly is available to the running application. S
+ee http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+
+
+<system.data>
+    <DbProviderFactories>
+      <remove invariant="System.Data.SqlServerCe.4.0" />
+      <add name="Microsoft SQL Server Compact Data Provider 4.0"
+           invariant="System.Data.SqlServerCe.4.0"
+           description=".NET Framework Data Provider for Microsoft SQL Server Compact"
+           type="System.Data.SqlServerCe.SqlCeProviderFactory, System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"/>
+    </DbProviderFactories>
+</system.data>
+
+
+<providers>
+      <provider invariantName="System.Data.SqlServerCe.4.0" type="System.Data.Entity.SqlServerCompact.SqlCeProviderServices, EntityFramework.SqlServerCompact, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+</providers>
+
+
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+//FileType Entity Has Optional with SlidShow But Required with FileType
+	modelBuilder.Entity<FileType>().HasOptional(u=>u.SlidShowList)
+					.WithRequired();
+}

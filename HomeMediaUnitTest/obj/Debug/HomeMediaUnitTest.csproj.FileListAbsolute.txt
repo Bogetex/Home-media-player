@@ -1,0 +1,9 @@
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\HomeMediaUnitTest.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\HomeMediaUnitTest.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\DataLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\DataLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\obj\Debug\HomeMediaUnitTest.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\obj\Debug\HomeMediaUnitTest.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\HomeMediaUnitTest\obj\Debug\HomeMediaUnitTest.pdb

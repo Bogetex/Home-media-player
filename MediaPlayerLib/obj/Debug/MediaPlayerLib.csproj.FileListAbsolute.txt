@@ -1,0 +1,42 @@
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+C:\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+C:\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+C:\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+C:\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\UtilitiesLib.dll
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+C:\Users\ali.VOK\Desktop\CopyDocument and file\CSharpe Kors file\Csharp III\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\Assignment1\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\DataLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment2\Assignment2\MediaPlayerLib\bin\Debug\DataLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll.config
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\MediaPlayerLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\DataLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\DataLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\obj\Debug\MediaPlayerLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\obj\Debug\MediaPlayerLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment3\Assignment3\MediaPlayerLib\obj\Debug\MediaPlayerLib.pdb

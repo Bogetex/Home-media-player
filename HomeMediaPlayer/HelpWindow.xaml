@@ -1,0 +1,60 @@
+﻿<Window x:Class="HomeMediaPlayer.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Name="MainWindow" Height="550" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Height="30" HorizontalAlignment="Left" Grid.Row="0">
+            <Image Source="/Resources/plus-button.png" Width="16" Height="16" VerticalAlignment="Top"/>
+            <TextBlock> Add New Album: Show New Album window to ad new album to My Library Folder</TextBlock>
+        </DockPanel>
+        <DockPanel Height="30" HorizontalAlignment="Left" Grid.Row="1">
+            <Image Source="/Resources/cross-button.png" Width="16" Height="16" VerticalAlignment="Top"/>
+            <TextBlock> Delete Selected Album: Remove Selcted Album My Library Folder</TextBlock>
+        </DockPanel>
+        <DockPanel Height="30" HorizontalAlignment="Left" Grid.Row="2">
+            <TextBlock> Click on Album name show album file in album file list view</TextBlock>
+        </DockPanel>
+        <DockPanel Height="30" HorizontalAlignment="Left" Grid.Row="3">
+            <TextBlock> Right click on File name in listview to add file to play list</TextBlock>
+        </DockPanel>
+        <DockPanel Height="30" HorizontalAlignment="Left" Grid.Row="4">
+            <Image Source="/Resources/control.png" Width="16" Height="16" VerticalAlignment="Top"/>
+            <TextBlock> Run play list</TextBlock>
+        </DockPanel>
+        <RichTextBox Height="{Binding ElementName=MainWindow, Path=Height}" Grid.Row="5" HorizontalAlignment="Left" 
+                     VerticalAlignment="Top" >
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Home media player it's a media app that help you to run your media file in easy way."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="All media file save in one default location My Library"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="You can select media files from any wher in computer bu not alowed to save Album just in My Library"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="You can control the flow of media file by Run, Next, Previous, Stop and play"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Double Click on each media file in file list display Player window and play selected file"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Add file to Playlist and play the files, player window show and by using control in player (Next,Previous...) you can decide how long you watch file."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Only 4 file type support by this player .Mp4, .Wav, .Png, .Jpg"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\UtilitiesLib\bin\Release\UtilitiesLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\UtilitiesLib\bin\Release\UtilitiesLib.pdb
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\UtilitiesLib\obj\Release\UtilitiesLib.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\UtilitiesLib\obj\Release\UtilitiesLib.dll
+\\VBOXSVR\Malmo-Coure-File\C Sharpe III\Assignment\Assignment1\UtilitiesLib\obj\Release\UtilitiesLib.pdb

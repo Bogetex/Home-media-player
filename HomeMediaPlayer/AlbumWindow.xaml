@@ -1,0 +1,70 @@
+﻿<Window x:Class="HomeMediaPlayer.AlbumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Album" Height="500" Width="700" FontSize="14" Closing="Window_Closing">
+    <Grid Background="Ivory">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3.5*"/>
+            <ColumnDefinition Width="0.6*"/>
+            <ColumnDefinition Width="3.5*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Grid.Row="0" Header="Album info" Grid.ColumnSpan="3">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="1.2*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" Orientation="Horizontal">
+                    <TextBox Name="txtPath" Width="560"/>
+                    <Button Name="btnSearchForFile" Click="btnSearchForFile_Click" Content="Brows" Width="100" Margin="10,0,0,0"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,5,0,0">
+                    <Label Content="Album Name:"/>
+                    <TextBox Name="txtAlbumName" Width="567" Margin="10,0,0,0"/>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <ListView Name="lstBrowsFile" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Margin="5,0,0,3"></ListView>
+        <StackPanel Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" Margin="5">
+            <Button Name="btnAddToAlbum" Click="btnAddToAlbum_Click" Grid.Column="1" Grid.Row="1" Height="50">
+                <StackPanel Orientation="Horizontal" Width="16" Height="16">
+                    <Image Source="/Resources/arrow-090.png" RenderTransformOrigin="0.5,0.5" >
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="90"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </StackPanel>
+            </Button>
+            <Button Name="btnDeleteFromAlbum" Click="btnDeleteFromAlbum_Click" Grid.Column="1" Grid.Row="1" Height="50">
+                <StackPanel Orientation="Horizontal" Width="16" Height="16">
+                    <Image Source="/Resources/arrow-090.png" RenderTransformOrigin="0.5,0.5" >
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-90"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <ListView Name="lstAlbumFile" Grid.Row="1"
+                 Grid.Column="2" Margin="2">
+            
+        </ListView>
+        <Button Name="btnOk" Click="btnOk_Click" Grid.Column="2" Grid.Row="3" Content="Ok" Width="155" HorizontalAlignment="Left" Margin="2"/>
+        <Button Name="btnCancel" Click="btnCancel_Click" Grid.Column="2" Grid.Row="3" Content="Cancel" Width="155" HorizontalAlignment="Right" Margin="2"/>
+    </Grid>
+</Window>
